@@ -22,7 +22,7 @@ The game challenges players to remember and repeat an increasing sequence of col
 5. The sequence becomes longer each level.
 
 ## Live Demo
-https://aftabshah0899669-dot.github.io/Mini-Project-CSS-Spotify-Front-Page/
+https://aftabshah0899669-dot.github.io/Simon-Says-Online-Game/
 
 
 ## Author
